@@ -1,0 +1,1 @@
+cmd_/home/bparfeniuk/android/home-work/test-module.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/bparfeniuk/android/home-work/test-module.ko /home/bparfeniuk/android/home-work/test-module.o /home/bparfeniuk/android/home-work/test-module.mod.o ;  true
